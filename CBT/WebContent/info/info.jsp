@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>information</title>
+<title>info</title>
 </head>
 <body>
 <div style="float:center; width:70%;">
