@@ -1,6 +1,6 @@
 package DB;
 
-public class member {
+public class member { //회원 정보
 	private String id; //아이디 
 	private String pwd; //비밀번호
 	private String name; //이름
