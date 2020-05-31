@@ -4,11 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<<<<<<< HEAD
 <title>information</title>
-=======
 <title>info</title>
->>>>>>> ej
 </head>
 <body>
 <div style="float:center; width:70%;">
