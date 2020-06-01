@@ -4,16 +4,11 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<<<<<<< HEAD
-</head>
-<body>
-
-=======
-<title>information</title>
+<title>info</title>
 </head>
 <body>
 <div style="float:center; width:70%;">
-<h2>국가자격 종목별 상세정보.ㄹㄹㄹㄹㄹㄹㄹ</h2>
+<h2>국가자격 종목별 상세정보</h2>
 <hr>
 <font size="5"><pre><strong>·자격명 </strong>  :</font><font size="5" color="navy"><strong>정보처리기사</strong></pre></font>
 <font size="5"><pre><strong>·영문명 </strong>  :Engineer Information Processing</pre></font>
@@ -26,13 +21,8 @@
 <td bgcolor="#D9E5FF"><font size="4" align="left"><strong>개요</strong></font></td>
 </tr>
 <tr>
-<<<<<<< HEAD
-<td><font size="4"><pre>컴퓨터를 효과적으로 활용하기 위해서 하드웨어뿐만 아니라 정교한 소프트웨어가 필요 하다.
-이에 따라 우수한 프로그램을 개발하여 업무의 효율성을 높이고, 궁극적으로 국가발전에 이바지
-=======
 <td><font size="4"><pre>컴퓨터를 효과적으로 활용하기 위해서 하드웨어뿐만 아니라 정교한 소프트웨어가 필요 하다. 
 이에 따라 우수한 프로그램을 개발하여 업무의 효율성을 높이고, 궁극적으로 국가발전에 이바지 
->>>>>>> ej
 하기 위해서 컴퓨터에 관한 전문적인 지식과 기술을 갖춘 사람을 양성 할 목적으로 제정됨.</pre></font></td>
 </tr>
 
@@ -164,6 +154,5 @@
 </tr>
 </table>
 </div>
->>>>>>> e7a81fd5f5c9cb314046a2a1375acaa65ba06cef
 </body>
 </html>
