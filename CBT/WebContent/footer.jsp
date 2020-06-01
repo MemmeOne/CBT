@@ -11,10 +11,13 @@ ul li { display: inline; margin-left: 100px; }
 </head>
 <body>
 	<ul class="footer">
+<<<<<<< .merge_file_a12092
 <<<<<<< .merge_file_a09332
 		<li>권지섭</li>
 		<li>박지원</li>
 =======
+=======
+>>>>>>> .merge_file_a09720
 		<li>권지섭 jw footer 수정</li>
 		<li>박지원dddddddddddddddddddddddddd</li>
 >>>>>>> .merge_file_a05540
