@@ -15,7 +15,7 @@ ul li{margin-left:50px;}
 </head>
 <body>header.jsp<br>
 <ul class="menu" >
-	<li><a href="quiz/quiz.jsp">문제</a></li>
+	<li><a href="quiz/quiz.jsp">문제ddddddddddddddddddddddddddd</a></li>
 		<ul class="sub">
 			<li><a href="quiz/daily.jsp">데일리 문제</a></li>
 			<li><a href="quiz/subject.jsp">단원별 문제</a></li>
