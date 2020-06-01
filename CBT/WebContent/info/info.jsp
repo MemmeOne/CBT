@@ -10,7 +10,7 @@
 <div style="float:center; width:70%;">
 <h2>국가자격 종목별 상세정보</h2>
 <hr>
-<font size="5"><pre><strong>·자격명 </strong>  :</font><font size="5" color="navy"><strong>정보처리기사</strong></pre></font>
+<font size="5"><pre><strong>·자격명 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ</strong>  :</font><font size="5" color="navy"><strong>정보처리기사</strong></pre></font>
 <font size="5"><pre><strong>·영문명 </strong>  :Engineer Information Processing</pre></font>
 <font size="5"><pre><strong>·관련부처 </strong>:과학기술정보통신부</pre></font>
 <font size="5"><pre><strong>·시행기관 </strong>:한국산업인력공단</pre></font>
