@@ -12,6 +12,7 @@ ul li { display: inline; margin-left: 100px; }
 <body>
 	<ul class="footer">
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_a06248
 <<<<<<< .merge_file_a12092
 <<<<<<< .merge_file_a09332
@@ -25,6 +26,9 @@ ul li { display: inline; margin-left: 100px; }
 =======
 >>>>>>> jw
 		<li>권지섭 jw footer 수정</li>
+=======
+		<li>권지섭 jw footer 수정 +다시 수정</li>
+>>>>>>> jw
 		<li>박지원dddddddddddddddddddddddddd</li>
 >>>>>>> .merge_file_a05540
 		<li>이미혜</li>
