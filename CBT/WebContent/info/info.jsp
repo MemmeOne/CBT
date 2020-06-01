@@ -5,17 +5,15 @@
 <head>
 <meta charset="UTF-8">
 <<<<<<< HEAD
-<title>Insert title here</title>
 </head>
 <body>
 
 =======
 <title>information</title>
-<title>info</title>
 </head>
 <body>
 <div style="float:center; width:70%;">
-<h2>국가자격 종목별 상세정보</h2>
+<h2>국가자격 종목별 상세정보.ㄹㄹㄹㄹㄹㄹㄹ</h2>
 <hr>
 <font size="5"><pre><strong>·자격명 </strong>  :</font><font size="5" color="navy"><strong>정보처리기사</strong></pre></font>
 <font size="5"><pre><strong>·영문명 </strong>  :Engineer Information Processing</pre></font>

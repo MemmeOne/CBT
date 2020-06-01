@@ -1,11 +1,11 @@
 package DB;
 
-public class member { //회원 정보
-	private String id; //아이디 
-	private String pwd; //비밀번호
-	private String name; //이름
-	private int point; //포인트
-	//getter, setter
+public class Member {
+	private String id;
+	private String pwd;
+	private String name;
+	private int point;
+	
 	public String getId() {
 		return id;
 	}
@@ -30,4 +30,6 @@ public class member { //회원 정보
 	public void setPoint(int point) {
 		this.point = point;
 	}
+	
+	
 }
