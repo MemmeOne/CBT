@@ -5,6 +5,11 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<<<<<<< HEAD
+</head>
+<body>
+
+=======
 <style type="text/css">
 .menu{background:yellow; list-style:none; width:1000px; }
 ul li{margin-left:50px;}
@@ -27,5 +32,6 @@ ul li{margin-left:50px;}
 	<li><a href="login/login.jsp">로그인</a>&nbsp;&nbsp;&nbsp;<a href="reg/reg.jsp">회원가입</a></li>
 </ul>
  
+>>>>>>> e7a81fd5f5c9cb314046a2a1375acaa65ba06cef
 </body>
 </html>

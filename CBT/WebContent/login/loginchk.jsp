@@ -6,6 +6,10 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
+<<<<<<< HEAD
+<body>
+
+=======
 <body>loginchk.jsp<br>
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
@@ -45,5 +49,6 @@
 			</c:choose>
 		</c:otherwise>
 	</c:choose>
+>>>>>>> e7a81fd5f5c9cb314046a2a1375acaa65ba06cef
 </body>
 </html>

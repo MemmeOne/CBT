@@ -1,4 +1,16 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
+<<<<<<< HEAD
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+=======
 	pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -23,4 +35,5 @@ ul li {
 		<li>차은주</ul>
 </bo
 	dy>
+>>>>>>> e7a81fd5f5c9cb314046a2a1375acaa65ba06cef
 </html>

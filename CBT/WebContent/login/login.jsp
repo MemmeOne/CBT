@@ -6,6 +6,10 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
+<<<<<<< HEAD
+<body>
+
+=======
 <body>login.jsp<br>
 <%@ taglib uri="http://java.sun.com/jstl/core" prefix="c" %>
 <%@ taglib uri="http://java.sun.com/jstl/fmt" prefix="fmt" %>
@@ -47,5 +51,6 @@
 			</tr>
 		</table>
 	</form>
+>>>>>>> e7a81fd5f5c9cb314046a2a1375acaa65ba06cef
 </body>
 </html>

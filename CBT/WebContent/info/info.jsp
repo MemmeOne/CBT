@@ -4,6 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<<<<<<< HEAD
+<title>Insert title here</title>
+</head>
+<body>
+
+=======
 <title>information</title>
 <title>info</title>
 </head>
@@ -160,5 +166,6 @@
 </tr>
 </table>
 </div>
+>>>>>>> e7a81fd5f5c9cb314046a2a1375acaa65ba06cef
 </body>
 </html>
