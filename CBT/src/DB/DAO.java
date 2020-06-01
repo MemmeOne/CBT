@@ -14,7 +14,7 @@ public class DAO {
 	private Connection con;
 	private PreparedStatement ps;
 	private ResultSet rs;
-	//DB ¡¢±Ÿ
+	//DB Ï†ëÍ∑º
 	public DAO() {
 		try {
 			Class.forName("oracle.jdbc.driver.OracleDriver");
@@ -22,9 +22,9 @@ public class DAO {
 			e.printStackTrace();
 		}
 	}
-	//∑Œ±◊¿Œ √º≈© ±‚¥…
+	//Î°úÍ∑∏Ïù∏ Ï≤¥ÌÅ¨ Í∏∞Îä•
 	public String loginchk(String userid) {
-		String dbpwd=""; //DBø° ¿˙¿Âµ» ∫Òπ–π¯»£
+		String dbpwd=""; //DBÏóê Ï†ÄÏû•Îêú ÎπÑÎ∞ÄÎ≤àÌò∏
 		String sql = "select pwd from member where id=?";
 		try {
 			con=DriverManager.getConnection(url,user,pwd);
@@ -38,5 +38,38 @@ public class DAO {
 			e.printStackTrace();
 		}
 		return dbpwd;
+	}
+	
+	public void membership(Member member) {
+		String sql = "insert into member(id,pwd,name) values(?,?,?)";
+		
+		try {
+			con = DriverManager.getConnection(url, user, pwd);
+			ps = con.prepareStatement(sql);
+			ps.setString(1, member.getId());
+			ps.setString(2, member.getPwd());
+			ps.setString(3, member.getName());
+			ps.executeQuery();
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	public ArrayList<String> check() {
+		
+		String sql = "select*from member";
+		ArrayList<String> li = new ArrayList<String>();
+		try {
+			con = DriverManager.getConnection(url, user, pwd);
+			ps = con.prepareStatement(sql);
+			rs  = ps.executeQuery();
+			while(rs.next()) {
+				String a = rs.getString("id");
+				li.add(a);
+			}
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		return li;
 	}
 }

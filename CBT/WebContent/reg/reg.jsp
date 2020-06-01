@@ -1,13 +1,8 @@
-<<<<<<< HEAD
 <%@page import="java.util.ArrayList"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
-=======
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
->>>>>>> e7a81fd5f5c9cb314046a2a1375acaa65ba06cef
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,8 +10,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-<jsp:useBean id="dao" class="DB.DAO_reg"/>
+<%@ include file="../header.jsp"%>
+<jsp:useBean id="dao" class="DB.DAO"/>
 <%ArrayList<String> li = dao.check();
 StringBuffer values = new StringBuffer();
 	for(int i=0; i<li.size(); i++) {
@@ -69,8 +64,6 @@ function check(){
 <input type="text" id="name" name="name" placeholder="이름"><br>
 <input type="button" onclick="ms()" value="회원가입">
 </form>
-=======
-
->>>>>>> e7a81fd5f5c9cb314046a2a1375acaa65ba06cef
+<%@ include file="../footer.jsp"%>
 </body>
 </html>
