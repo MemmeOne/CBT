@@ -8,6 +8,7 @@
 </head>
 <body>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< .merge_file_a14452
 <<<<<<< .merge_file_a00892
 ddddddddddddddddddddddddddddddd
@@ -19,6 +20,9 @@ ej rank.jsp 수정ㄹㄴ
 >>>>>>> .merge_file_a01516
 =======
 ej rank.jsp 수정ㄹㄴ
+>>>>>>> ej
+=======
+ej rank.jsp + 다시 수정
 >>>>>>> ej
 </body>
 </html>
