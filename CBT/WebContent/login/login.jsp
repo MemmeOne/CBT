@@ -6,11 +6,8 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<<<<<<< HEAD
 <body>
-
-=======
-<body>login.jsp<br>
+<%@ include file="../header.jsp"%>
 <%@ taglib uri="http://java.sun.com/jstl/core" prefix="c" %>
 <%@ taglib uri="http://java.sun.com/jstl/fmt" prefix="fmt" %>
 <fmt:requestEncoding value="utf-8"/>
@@ -51,6 +48,6 @@
 			</tr>
 		</table>
 	</form>
->>>>>>> e7a81fd5f5c9cb314046a2a1375acaa65ba06cef
+<%@ include file="../footer.jsp"%>
 </body>
 </html>
