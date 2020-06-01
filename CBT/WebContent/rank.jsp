@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 <<<<<<< .merge_file_a14452
 <<<<<<< .merge_file_a00892
 ddddddddddddddddddddddddddddddd
@@ -16,5 +17,8 @@ ej rank.jsp 수정ㄹㄴ
 =======
 ej rank.jsp 수정ㄹㄴ
 >>>>>>> .merge_file_a01516
+=======
+ej rank.jsp 수정ㄹㄴ
+>>>>>>> ej
 </body>
 </html>
