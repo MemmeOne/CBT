@@ -8,8 +8,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 public class DAO {
-	// private String url = "jdbc:oracle:thin:@localhost:1521:xe";
-	private String url = "jdbc:oracle:thin:@192.168.58.184:1521:xe"; // 지원 학원
+	private String url = "jdbc:oracle:thin:@localhost:1521:xe";
+	//private String url = "jdbc:oracle:thin:@192.168.58.184:1521:xe"; // 지원 학원
 	
 	private String user = "jsp";
 	private String pwd = "1234";
