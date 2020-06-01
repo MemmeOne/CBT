@@ -31,6 +31,8 @@
 						<c:otherwise>
 							<c:choose>
 								<c:when test="${dbpwd==param.pwd}">
+									<% session.setAttribute("userid",
+											request.getParameter("id")); %>
 									<c:redirect url="../main.jsp" />
 								</c:when>
 								<c:otherwise>
