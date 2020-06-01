@@ -1,17 +1,11 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<<<<<<< HEAD
-=======
-<title>Insert title here</title>
 </head>
 <body>
 <title>information</title>
->>>>>>> eed6a43cc476a9c7f8c3215e8cdf3198c2a06a90
-<title>info</title>
 </head>
 <body>
 <div style="float:center; width:70%;">
@@ -28,11 +22,8 @@
 <td bgcolor="#D9E5FF"><font size="4" align="left"><strong>개요</strong></font></td>
 </tr>
 <tr>
-<<<<<<< HEAD
-=======
 <td><font size="4"><pre>컴퓨터를 효과적으로 활용하기 위해서 하드웨어뿐만 아니라 정교한 소프트웨어가 필요 하다.
 이에 따라 우수한 프로그램을 개발하여 업무의 효율성을 높이고, 궁극적으로 국가발전에 이바지
->>>>>>> eed6a43cc476a9c7f8c3215e8cdf3198c2a06a90
 <td><font size="4"><pre>컴퓨터를 효과적으로 활용하기 위해서 하드웨어뿐만 아니라 정교한 소프트웨어가 필요 하다. 
 이에 따라 우수한 프로그램을 개발하여 업무의 효율성을 높이고, 궁극적으로 국가발전에 이바지 
 하기 위해서 컴퓨터에 관한 전문적인 지식과 기술을 갖춘 사람을 양성 할 목적으로 제정됨.</pre></font></td>

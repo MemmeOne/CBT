@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-   pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,7 +8,6 @@
 </head>
 <body>
 
-=======
 <title>ul li{margin-left:100px; display:inline;} </title>
 <style type="text/css">
 
@@ -43,6 +41,5 @@ ul li{ padding:0 50px; display:inline;  }
          <li><a href="reg/reg.jsp">회원가입</a></li>
       </ul>
    </div>
->>>>>>> eed6a43cc476a9c7f8c3215e8cdf3198c2a06a90
 </body>
 </html>
