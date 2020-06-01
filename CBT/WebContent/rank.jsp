@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-ej rank.jsp 수정ㄹㄴ
+ej rank.jsp + 다시 수정
 </body>
 </html>
