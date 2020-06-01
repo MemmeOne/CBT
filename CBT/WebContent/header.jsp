@@ -22,6 +22,7 @@ ul li{ padding:0 50px; display:inline;  }
 
 </style>
 </head>
+<<<<<<< HEAD
 <body>
    <div id="menu1">
       <ul class="main">
@@ -40,5 +41,21 @@ ul li{ padding:0 50px; display:inline;  }
          <li><a href="reg/reg.jsp">회원가입</a></li>
       </ul>
    </div>
+=======
+<body>header.jsp<br>
+<ul class="menu" >
+	<li><a href="quiz/quiz.jsp">문제ddddddddddddddddddddddddddd</a></li>
+		<ul class="sub">
+			<li><a href="quiz/daily.jsp">데일리 문제</a></li>
+			<li><a href="quiz/subject.jsp">단원별 문제</a></li>
+			<li><a href="quiz/whole.jsp">한회차 문제</a></li>
+		</ul>
+	<li><a href="board/board.jsp">게시판</a></li>
+	<li><a href="rank.jsp">랭킹</a></li>
+	<li><a href="info/info.jsp">시험관련정보</a></li>
+	<li><a href="login/login.jsp">로그인</a>&nbsp;&nbsp;&nbsp;<a href="reg/reg.jsp">회원가입</a></li>
+</ul>
+ 
+>>>>>>> jw
 </body>
 </html>
