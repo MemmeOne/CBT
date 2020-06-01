@@ -18,7 +18,7 @@ ul li {
 <body>
 	<ul class="footer">
 		<li>권지섭</li>
-		<li>박지원</li>
+		<li>박지원dddddddddddddddddddddddddd</li>
 		<li>이미혜</li>
 		<li>차은주</ul>
 </bo
